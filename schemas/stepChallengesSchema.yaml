@@ -8,6 +8,8 @@ stepBreakDown:
     required: false
     type: list
     schema:
-        text:
-            required: true
-            type: string
+        type: dict
+        schema:
+            text:
+                required: true
+                type: string
