@@ -6,7 +6,7 @@ stepId:
     type: string
 stepBreakDown:
     required: false
-    type: dict
+    type: list
     schema:
         text:
             required: true
