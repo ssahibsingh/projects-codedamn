@@ -1,6 +1,5 @@
-# Hello and Welcome to **Weather App** guided tutorial!
+In this step, we will focus on coloring elements, with the help of Bootstrap classes.
 
-## In this step, we will focus on coloring elements, with the help of Bootstrap classes.
 
 ### Please carry out the following steps:
 

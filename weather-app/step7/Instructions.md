@@ -1,6 +1,4 @@
-# Hello and Welcome to **Weather App** guided tutorial!
-
-## In this step, we will use the Browser Geolocation API, to get coordinates.
+In this step, we will use the Browser Geo-location API, to get coordinates.
 
 Source code should look like this:
 

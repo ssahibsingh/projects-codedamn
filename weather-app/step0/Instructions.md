@@ -1,8 +1,9 @@
-# Hello and Welcome to **Weather App** guided tutorial!
 
-## In this step, we will focus on basic styling of the app, with the help of Bootstrap classes.
+Hello and Welcome to **Weather App** guided tutorial!
 
-### Please carry out the following steps:
+In this step, we will focus on basic styling of the app, with the help of Bootstrap classes.
+
+#### Please carry out the following steps:
 
 1. Firstly make sure that you already have some bootstrap classes: `row`, `col-3`, `card`, `card-title`, `card-body` already used in the boilerplate code.
 2. Please note that, in **JSX**, to use a class attribute, we need to use `className` instead of `class`.

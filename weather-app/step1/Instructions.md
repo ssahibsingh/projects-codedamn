@@ -1,8 +1,7 @@
-# Hello and Welcome to **Weather App** guided tutorial!
+In this step, we will focus on adding Alignment, Margins and Padding, with the help of Bootstrap classes.
 
-## In this step, we will focus on adding Alignment, Margins and Padding, with the help of Bootstrap classes.
+#### Please carry out the following steps:
 
-### Please carry out the following steps:
 
 1. Please note that, in **JSX**, to use a class attribute, we need to use `className` instead of `class`.
 2. The overall app would look much better if things are _center-aligned_. Add `text-center` class to the `div` element with `id="weather-app"`.

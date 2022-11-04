@@ -1,8 +1,6 @@
-# Hello and Welcome to **Weather App** guided tutorial!
+In this step, we will get familiar with React Hooks and how to use them in our application.
 
-## In this step, we will get familiar with React Hooks and how to use them in our application.
-
-### React Hooks are simple JavaScript functions that we can use to isolate the reusable part from a functional component. Hooks can be stateful and can manage side-effects.
+React Hooks are simple JavaScript functions that we can use to isolate the reusable part from a functional component. Hooks can be stateful and can manage side-effects.
 
 We will be using the following hooks in this step:
 

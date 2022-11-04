@@ -1,6 +1,4 @@
-# Hello and Welcome to **Weather App** guided tutorial!
-
-## In this step, we will render the stored data on Weather App.
+In this step, we will render the stored data on Weather App.
 
 The data that we fetched from the API is stored in the `weather` variable. We will use this variable to render the data on the screen. The data is present in the form of object containing multiple objects with arrays of 7 days. We will use the `map` function to render the data.
 

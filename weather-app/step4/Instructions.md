@@ -1,6 +1,4 @@
-# Hello and Welcome to **Weather App** guided tutorial!
-
-## In this step, we will fetch and store Weather data using an API.
+In this step, we will fetch and store Weather data using an API.
 
 The `useEffect` hook comes into picture in this step. We will be using `open-metro` API to fetch Weather data.
 
