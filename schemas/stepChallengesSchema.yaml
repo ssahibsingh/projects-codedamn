@@ -1,0 +1,13 @@
+name:
+    required: true
+    type: string
+stepId:
+    required: true
+    type: string
+stepBreakDown:
+    required: false
+    type: dict
+    schema:
+        text:
+            required: true
+            type: string

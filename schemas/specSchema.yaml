@@ -1,17 +1,3 @@
-# name: str()
-# tags: array
-# starter-files: str()
-# type: str()
-# level: str()
-# cover-image: str()
-# short-description: str()
-# long-description: str()
-# codedamn:
-#     helper-learning-path: str()
-#     show-community-banner: bool()
-#     playground-layout: str()
-#     playground-image: str()
-
 name:
     required: true
     type: string

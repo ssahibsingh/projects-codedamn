@@ -7,5 +7,9 @@ jobs:
       - uses: actions/checkout@v3
       - uses: navikt/yaml-validator@v3
         with:
-          schema_path: schemas/schema.yaml
-          document_path: ./**/*.yml
+          schema_path: schemas/specSchema.yaml
+          document_path: ./**/spec.yml
+      - uses: navikt/yaml-validator@v3
+        with:
+          schema_path: schemas/stepChallengesSchema.yaml
+          document_path: ./**/challenges.yml
