@@ -1,0 +1,26 @@
+name: Add Visitors to Github's README.md
+tags: ["JavaScript", "Markdown", "Github-Actions", "Yml", "Node", "Deno", "Bash"]
+starter-files: https://github.com/tanishq-singh-2301/avtgr-codedamn-starterfile
+type: backend
+level: hard
+cover-image: https://raw.githubusercontent.com/tanishq-singh-2301/avtgr-codedamn-starterfile/main/assets/poster.png
+short-description: Add visitors to your github repository's README.md file.
+long-description: |
+  In this project, you're supposed to build a fully functional repository which will add all the visitor to it's README.md file.
+
+  This includes the following features:
+
+  - Triggering repository issue
+  - Catching that issue using Github Actions
+  - Adding new visitor to data.json file
+  - Rendering new README.md file
+  - Uploading new push
+
+  A detailed breakdown is available in the README.md file once you start the project. All the best!
+
+codedamn:
+  helper-learning-path: backend
+  show-community-banner: true
+  playground-layout: terminal-editor
+  playground-image: html
+  guided: true
